@@ -3,7 +3,7 @@
 body{
 	font-family: Arial;
 	padding: 10px;
-	background-color: #000080
+	background-color: #a9a9a9
 }
 
 h2{
@@ -14,7 +14,7 @@ h2{
 .header {
 	padding: 30px;
 	text-align: center;
-	background-color: cyan;
+	background-color: #00CED1;
 }
 .header h1 {
 	font-size: 50px;
@@ -37,11 +37,11 @@ h2{
 }
 .side{
 	flex: 30%;
-	background-color: yellow;
+	background-color: #ffb02e;
 }
 .side2{
 	flex: 70%;
-	background-color: orange;
+	background-color: #AADFAD;
 	display: flex;
 }
 
@@ -60,4 +60,3 @@ h2{
 .side2 .image{
 	width: 50%;
 }
-
